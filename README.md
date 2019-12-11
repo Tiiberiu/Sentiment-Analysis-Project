@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Project
+# Sentiment-Analysis-Project + Presentation
 Message positivism based on scores
 
 Implemented in C# and compiled in Visual Studio 2015
