@@ -1,0 +1,5 @@
+hi,2
+hello,1
+how,1
+are,1
+you,1

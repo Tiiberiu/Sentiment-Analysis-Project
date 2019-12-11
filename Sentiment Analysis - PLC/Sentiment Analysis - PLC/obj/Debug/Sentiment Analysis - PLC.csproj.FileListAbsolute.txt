@@ -1,0 +1,9 @@
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\bin\Debug\Sentiment Analysis - PLC.exe.config
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\bin\Debug\Sentiment Analysis - PLC.exe
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\bin\Debug\Sentiment Analysis - PLC.pdb
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment Analysis - PLC.csprojResolveAssemblyReference.cache
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment_Analysis___PLC.Form1.resources
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment_Analysis___PLC.Properties.Resources.resources
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment Analysis - PLC.csproj.GenerateResource.Cache
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment Analysis - PLC.exe
+D:\workspace\VISUAL STUDIO\PROJECTS\Sentiment Analysis - PLC\Sentiment Analysis - PLC\obj\Debug\Sentiment Analysis - PLC.pdb
